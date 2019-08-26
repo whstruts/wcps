@@ -1,0 +1,29 @@
+15:07:24.9958951;clsServerSocket;mCreateServerSocketListen;严重的系统问题;Socket服务监听创建失败或者运行中出错;在其上下文中，该请求的地址无效。;
+15:07:41.8128570;clsServerSocket;mCloseThread;由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。;
+15:12:13.4683948;clsServerSocket;mCloseThread;由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。;
+15:13:46.1856979;MyPublic;mRunProcedure;ORA-20001: 工号或密码错误
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 319
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 9
+ORA-06512: 在 line 1
+;
+15:13:55.0122028;MyPublic;mRunProcedure;ORA-20001: 当前工号已登录
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 319
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 9
+ORA-06512: 在 line 1
+;
+15:13:56.2592741;MyPublic;mRunProcedure;ORA-20001: 当前工号已登录
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 319
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 9
+ORA-06512: 在 line 1
+;
+15:13:56.3942818;MyPublic;mRunProcedure;ORA-20001: 当前工号已登录
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 319
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 9
+ORA-06512: 在 line 1
+;
+15:13:56.6062940;MyPublic;mRunProcedure;ORA-20001: 当前工号已登录
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 319
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 9
+ORA-06512: 在 line 1
+;
+15:24:32.8466848;clsServerSocket;mCloseThread;由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。;

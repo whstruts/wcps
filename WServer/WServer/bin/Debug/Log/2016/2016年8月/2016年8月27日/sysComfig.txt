@@ -1,0 +1,6 @@
+10:27:58.0277411;clsOutput;mConfirgWorkData;拣货确认开始：系统管理员 CKDFWP00161774 2 5 A05-030104;
+10:27:58.5317699;clsOutput;mConfirgWorkData;拣货确认结束：系统管理员 CKDFWP00161774 2 5 A05-030104;
+11:08:10.0720705;clsOutput;mConfirgWorkData;拣货确认开始：系统管理员 CKDFWP00161774 2 5 A05-030104;
+11:08:10.3380857;clsOutput;mConfirgWorkData;拣货确认结束：系统管理员 CKDFWP00161774 2 5 A05-030104;
+11:08:12.6892202;clsOutput;mConfirgWorkData;拣货确认开始：系统管理员 CKDFWP00161774 3 5 A06-060404;
+11:08:12.9742365;clsOutput;mConfirgWorkData;拣货确认结束：系统管理员 CKDFWP00161774 3 5 A06-060404;

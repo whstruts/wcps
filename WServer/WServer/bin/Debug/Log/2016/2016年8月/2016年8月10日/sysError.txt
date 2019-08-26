@@ -1,0 +1,15 @@
+17:34:03.8413190;MyPublic;mRunProcedure;ORA-20011: 未定义PDA集货复核权限
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 385
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 21
+ORA-06512: 在 line 1
+;
+17:34:06.7864874;MyPublic;mRunProcedure;ORA-20011: 未定义PDA集货复核权限
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 385
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 21
+ORA-06512: 在 line 1
+;
+17:34:40.5784202;MyPublic;mRunProcedure;ORA-20011: 未定义PDA拣货员权限
+ORA-06512: 在 "LMIS.PKG_UTL_EXEC", line 385
+ORA-06512: 在 "LMIS.PRC_UTL_EXECSQL", line 21
+ORA-06512: 在 line 1
+;

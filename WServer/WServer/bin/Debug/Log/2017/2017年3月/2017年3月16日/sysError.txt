@@ -1,0 +1,2 @@
+08:32:16.8729364;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS_CSZS;password=lmis6_cc2016!#;ORA-12170: TNS: 连接超时
+;

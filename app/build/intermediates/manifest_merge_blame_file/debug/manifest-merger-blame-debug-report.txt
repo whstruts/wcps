@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="wcs.cps"
+4    android:versionCode="10"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\DY\wcps\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="15" />
+9-->C:\DY\wcps\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+11-->C:\DY\wcps\app\src\main\AndroidManifest.xml:8:5-74
+11-->C:\DY\wcps\app\src\main\AndroidManifest.xml:8:22-71
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->C:\DY\wcps\app\src\main\AndroidManifest.xml:9:5-68
+12-->C:\DY\wcps\app\src\main\AndroidManifest.xml:9:22-65
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\DY\wcps\app\src\main\AndroidManifest.xml:10:5-67
+13-->C:\DY\wcps\app\src\main\AndroidManifest.xml:10:22-64
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\DY\wcps\app\src\main\AndroidManifest.xml:11:5-81
+14-->C:\DY\wcps\app\src\main\AndroidManifest.xml:11:22-78
+15    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+15-->C:\DY\wcps\app\src\main\AndroidManifest.xml:12:5-84
+15-->C:\DY\wcps\app\src\main\AndroidManifest.xml:12:22-81
+16
+17    <application
+17-->C:\DY\wcps\app\src\main\AndroidManifest.xml:14:5-82:19
+18        android:debuggable="true"
+19        android:icon="@drawable/firefox"
+19-->C:\DY\wcps\app\src\main\AndroidManifest.xml:15:9-41
+20        android:label="@string/app_name"
+20-->C:\DY\wcps\app\src\main\AndroidManifest.xml:16:9-41
+21        android:testOnly="true" >
+22        <activity
+22-->C:\DY\wcps\app\src\main\AndroidManifest.xml:18:9-28:20
+23            android:name="wcs.cps.WcpsActivity"
+23-->C:\DY\wcps\app\src\main\AndroidManifest.xml:20:13-41
+24            android:label="@string/app_name"
+24-->C:\DY\wcps\app\src\main\AndroidManifest.xml:21:13-45
+25            android:screenOrientation="landscape" >
+25-->C:\DY\wcps\app\src\main\AndroidManifest.xml:19:13-50
+26            <intent-filter>
+26-->C:\DY\wcps\app\src\main\AndroidManifest.xml:24:13-27:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\DY\wcps\app\src\main\AndroidManifest.xml:25:17-69
+27-->C:\DY\wcps\app\src\main\AndroidManifest.xml:25:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\DY\wcps\app\src\main\AndroidManifest.xml:26:17-77
+29-->C:\DY\wcps\app\src\main\AndroidManifest.xml:26:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->C:\DY\wcps\app\src\main\AndroidManifest.xml:30:9-32:48
+33            android:name="wcs.cps.actLogin"
+33-->C:\DY\wcps\app\src\main\AndroidManifest.xml:31:13-36
+34            android:label="@string/app_name" />
+34-->C:\DY\wcps\app\src\main\AndroidManifest.xml:32:13-45
+35        <activity
+35-->C:\DY\wcps\app\src\main\AndroidManifest.xml:33:9-36:51
+36            android:name="wcs.cps.actMain"
+36-->C:\DY\wcps\app\src\main\AndroidManifest.xml:34:13-35
+37            android:label="@string/app_name"
+37-->C:\DY\wcps\app\src\main\AndroidManifest.xml:35:13-45
+38            android:theme="@style/title_style" />
+38-->C:\DY\wcps\app\src\main\AndroidManifest.xml:36:13-47
+39        <activity
+39-->C:\DY\wcps\app\src\main\AndroidManifest.xml:37:9-40:50
+40            android:name="wcs.cps.actPickWork"
+40-->C:\DY\wcps\app\src\main\AndroidManifest.xml:38:13-39
+41            android:label="@string/app_name"
+41-->C:\DY\wcps\app\src\main\AndroidManifest.xml:39:13-45
+42            android:theme="@style/title_style" />
+42-->C:\DY\wcps\app\src\main\AndroidManifest.xml:40:13-47
+43        <activity
+43-->C:\DY\wcps\app\src\main\AndroidManifest.xml:41:9-44:51
+44            android:name="wcs.cps.actBlueMgr"
+44-->C:\DY\wcps\app\src\main\AndroidManifest.xml:42:13-38
+45            android:label="@string/app_name"
+45-->C:\DY\wcps\app\src\main\AndroidManifest.xml:43:13-45
+46            android:theme="@style/title_style" />
+46-->C:\DY\wcps\app\src\main\AndroidManifest.xml:44:13-47
+47        <activity
+47-->C:\DY\wcps\app\src\main\AndroidManifest.xml:45:9-48:50
+48            android:name="wcs.cps.actPickBoxMatch"
+48-->C:\DY\wcps\app\src\main\AndroidManifest.xml:46:13-43
+49            android:label="@string/app_name"
+49-->C:\DY\wcps\app\src\main\AndroidManifest.xml:47:13-45
+50            android:theme="@style/title_style" />
+50-->C:\DY\wcps\app\src\main\AndroidManifest.xml:48:13-47
+51        <activity
+51-->C:\DY\wcps\app\src\main\AndroidManifest.xml:49:9-52:50
+52            android:name="wcs.cps.actSupply"
+52-->C:\DY\wcps\app\src\main\AndroidManifest.xml:50:13-37
+53            android:label="@string/app_name"
+53-->C:\DY\wcps\app\src\main\AndroidManifest.xml:51:13-45
+54            android:theme="@style/title_style" />
+54-->C:\DY\wcps\app\src\main\AndroidManifest.xml:52:13-47
+55        <activity
+55-->C:\DY\wcps\app\src\main\AndroidManifest.xml:53:9-56:50
+56            android:name="wcs.cps.LogDBActivity"
+56-->C:\DY\wcps\app\src\main\AndroidManifest.xml:54:13-41
+57            android:label="@string/app_name"
+57-->C:\DY\wcps\app\src\main\AndroidManifest.xml:55:13-45
+58            android:theme="@style/title_style" />
+58-->C:\DY\wcps\app\src\main\AndroidManifest.xml:56:13-47
+59        <activity
+59-->C:\DY\wcps\app\src\main\AndroidManifest.xml:57:9-60:50
+60            android:name="wcs.cps.actQuery"
+60-->C:\DY\wcps\app\src\main\AndroidManifest.xml:58:13-36
+61            android:label="@string/app_name"
+61-->C:\DY\wcps\app\src\main\AndroidManifest.xml:59:13-45
+62            android:theme="@style/title_style" />
+62-->C:\DY\wcps\app\src\main\AndroidManifest.xml:60:13-47
+63        <activity
+63-->C:\DY\wcps\app\src\main\AndroidManifest.xml:61:9-64:50
+64            android:name="wcs.cps.actStock"
+64-->C:\DY\wcps\app\src\main\AndroidManifest.xml:62:13-36
+65            android:label="@string/app_name"
+65-->C:\DY\wcps\app\src\main\AndroidManifest.xml:63:13-45
+66            android:theme="@style/title_style" />
+66-->C:\DY\wcps\app\src\main\AndroidManifest.xml:64:13-47
+67        <activity
+67-->C:\DY\wcps\app\src\main\AndroidManifest.xml:65:9-68:50
+68            android:name="wcs.cps.actWorkLog"
+68-->C:\DY\wcps\app\src\main\AndroidManifest.xml:66:13-38
+69            android:label="@string/app_name"
+69-->C:\DY\wcps\app\src\main\AndroidManifest.xml:67:13-45
+70            android:theme="@style/title_style" />
+70-->C:\DY\wcps\app\src\main\AndroidManifest.xml:68:13-47
+71        <activity
+71-->C:\DY\wcps\app\src\main\AndroidManifest.xml:69:9-72:50
+72            android:name="wcs.cps.actSupplyActive"
+72-->C:\DY\wcps\app\src\main\AndroidManifest.xml:70:13-43
+73            android:label="@string/app_name"
+73-->C:\DY\wcps\app\src\main\AndroidManifest.xml:71:13-45
+74            android:theme="@style/title_style" />
+74-->C:\DY\wcps\app\src\main\AndroidManifest.xml:72:13-47
+75        <activity
+75-->C:\DY\wcps\app\src\main\AndroidManifest.xml:73:9-76:50
+76            android:name="wcs.cps.actCheckStock"
+76-->C:\DY\wcps\app\src\main\AndroidManifest.xml:74:13-41
+77            android:label="@string/app_name"
+77-->C:\DY\wcps\app\src\main\AndroidManifest.xml:75:13-45
+78            android:theme="@style/title_style" />
+78-->C:\DY\wcps\app\src\main\AndroidManifest.xml:76:13-47
+79        <activity
+79-->C:\DY\wcps\app\src\main\AndroidManifest.xml:77:9-80:50
+80            android:name="wcs.cps.actPositionMove"
+80-->C:\DY\wcps\app\src\main\AndroidManifest.xml:78:13-43
+81            android:label="@string/app_name"
+81-->C:\DY\wcps\app\src\main\AndroidManifest.xml:79:13-45
+82            android:theme="@style/title_style" />
+82-->C:\DY\wcps\app\src\main\AndroidManifest.xml:80:13-47
+83    </application>
+84
+85</manifest>

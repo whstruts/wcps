@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/LogDBActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/LogDBHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/WcpsActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actBlueMgr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actCheckStock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actPickBoxMatch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actPickWork.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actPositionMove.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actStock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actSupply.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actSupplyActive.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/actWorkLog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/clsBluetoothMgr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/clsMyPublic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/clsSocketCln.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/clsSocketMgr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/wcs/cps/clsWcsWelcome.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

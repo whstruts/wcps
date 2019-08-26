@@ -1,0 +1,2 @@
+23:06:54.3192206;clsOutput;mConfirgWorkData;拣货确认开始：华莹莹 BHDSWP00027108 4 1 A04-110301新;
+23:06:54.3472222;clsOutput;mConfirgWorkData;拣货确认结束：华莹莹 BHDSWP00027108 4 1 A04-110301新;

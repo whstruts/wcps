@@ -1,0 +1,32 @@
+14:31:46.9330204;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmishn;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+14:32:48.8963292;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmishn;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+14:34:21.1972922;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmishn;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+14:38:14.6929037;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmishn;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+14:54:11.1795865;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+14:56:23.6862193;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:00:19.4134355;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:05:57.3854914;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:25:35.2852875;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:29:52.0819754;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:35:03.6787977;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:35:07.9840440;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:35:26.9971315;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:35:27.0111323;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_HUNAN;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:36:00.6640571;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS;password=lmis;ORA-12154: TNS:could not resolve the connect identifier specified
+;
+15:38:00.8089290;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS;password=lmis;ORA-12170: TNS:Connect timeout occurred
+;

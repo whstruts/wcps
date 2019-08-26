@@ -1,0 +1,4 @@
+11:35:33.3671780;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_SY_test;password=test;尝试加载 Oracle 客户端库时引发 BadImageFormatException。如果在安装 32 位 Oracle 客户端组件的情况下以 64 位模式运行，将出现此问题。;
+11:35:45.8188902;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_SY_test;password=test;尝试加载 Oracle 客户端库时引发 BadImageFormatException。如果在安装 32 位 Oracle 客户端组件的情况下以 64 位模式运行，将出现此问题。;
+11:35:59.2836603;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_SY_test;password=test;尝试加载 Oracle 客户端库时引发 BadImageFormatException。如果在安装 32 位 Oracle 客户端组件的情况下以 64 位模式运行，将出现此问题。;
+11:38:51.5115112;MyPublic;mConnectWCSDB user id=lmis;data source=LMIS6_SY_test;password=test;尝试加载 Oracle 客户端库时引发 BadImageFormatException。如果在安装 32 位 Oracle 客户端组件的情况下以 64 位模式运行，将出现此问题。;

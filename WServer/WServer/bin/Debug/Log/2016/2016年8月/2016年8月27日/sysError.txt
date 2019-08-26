@@ -1,0 +1,124 @@
+09:45:48.1214093;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+09:47:10.6523548;MyPublic;mRunProcedure;ORA-01403: 未找到任何数据
+ORA-06512: 在 "LMIS.PKG_AIO_TASK", line 2791
+ORA-06512: 在 line 1
+;
+09:47:20.8079727;MyPublic;mRunProcedure;ORA-01403: 未找到任何数据
+ORA-06512: 在 "LMIS.PKG_AIO_TASK", line 2791
+ORA-06512: 在 line 1
+;
+09:55:46.9268650;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+09:55:47.2544656;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+09:55:47.9096668;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+09:55:50.8112719;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+09:56:33.0405460;clsServerSocket;mCloseThread;由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。;
+10:00:36.2137731;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+10:04:55.9886930;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+10:06:46.4950136;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+10:07:47.9685297;clsServerSocket;mCloseThread;由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。;
+10:08:35.0722239;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+10:08:37.0663379;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+10:08:38.6534287;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_MATCH' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
+10:12:16.6888996;clsOutput;mGetPickWorkData;列“DANJ_NO”不属于表 Table。;
+10:24:39.1693671;clsOutput;mGetPickWorkData;列“DANJ_NO”不属于表 Table。;
+10:24:41.9835280;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:24:43.5566180;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package body "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:24:43.7226275;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package body "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:24:49.1079355;MyPublic;mRunProcedure;ORA-00937: 不是单组分组函数
+ORA-06512: 在 "LMIS.PKG_AIO_TASK", line 2081
+ORA-06512: 在 line 1
+;
+10:25:57.1458271;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package body "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:25:57.9788747;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package body "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:25:58.5339065;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package body "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:25:58.7409183;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package body "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package body "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:25:58.9989331;MyPublic;mRunProcedure;ORA-04068: 已丢弃程序包  的当前状态
+ORA-04061: package "LMIS.PKG_AIO_TASK" 的当前状态失效
+ORA-04065: 未执行, 已变更或删除 package "LMIS.PKG_AIO_TASK"
+ORA-06508: PL/SQL: 无法找到正在调用 : "LMIS.PKG_AIO_TASK" 的程序单元
+ORA-06512: 在 line 1
+;
+10:27:58.5307699;MyPublic;mRunProcedure;ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'P_CONFIRM' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+;
